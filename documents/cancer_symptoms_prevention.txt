@@ -1,0 +1,238 @@
+APPROVAL_STATUS: sample-not-clinically-approved
+DOCUMENT_VERSION: 1.0
+
+CANCER SYMPTOMS, RECOVERY, AND PREVENTION GUIDE
+
+This document is for educational purposes only. It is not medical advice. Always consult with qualified healthcare professionals for personal health concerns.
+
+COMMON CANCER SYMPTOMS
+
+General Warning Signs
+Cancer can cause many different symptoms. These depend on the type of cancer, where it is, and how big it is. Some cancers may not cause symptoms until they are quite large. When cancer does cause symptoms, they can include:
+
+Unexplained Weight Loss
+Losing weight without trying can be an early sign of many cancers. This is more common in cancers of the pancreas, stomach, esophagus, or lung. Losing 10 pounds or more without a clear reason should be discussed with a doctor.
+
+Fatigue
+Extreme tiredness that does not get better with rest is a common symptom. Fatigue can happen early in some cancers, like leukemia. It can also happen as cancer grows and affects the body's ability to process nutrients.
+
+Pain
+Pain may be an early symptom in some cancers like bone or testicular cancer. A headache that does not go away or get better with treatment may be a symptom of a brain tumor. Back pain can be a symptom of cancer of the colon, rectum, ovary, or other organs.
+
+Skin Changes
+Changes in the skin can be symptoms of cancer. These include:
+- Darker looking skin (hyperpigmentation)
+- Yellowish skin and eyes (jaundice)
+- Reddened skin (erythema)
+- Itching (pruritis)
+- Excessive hair growth
+
+Fever
+Fever is very common with cancer, but it more often happens after cancer has spread. Fever may be an early sign in blood cancers like leukemia or lymphoma.
+
+Changes in Bowel or Bladder Habits
+Long-term constipation, diarrhea, or a change in the size of the stool may be a sign of colon cancer. Pain when passing urine, blood in the urine, or a change in bladder function may be signs of bladder or prostate cancer.
+
+Sores That Do Not Heal
+Skin cancers may bleed and look like sores that do not heal. A long-lasting sore in the mouth could be oral cancer. White or red patches inside the mouth may also be signs.
+
+Unusual Bleeding or Discharge
+Unusual bleeding can happen in early or advanced cancer. Coughing up blood may be a sign of lung cancer. Blood in the stool can be a sign of colon or rectal cancer. Unusual vaginal bleeding may be a sign of cancer of the uterus or cervix.
+
+Lumps or Thickening
+Many cancers can be felt through the skin. These occur mainly in the breast, testicle, lymph nodes, and soft tissues of the body. A lump or thickening may be an early or late sign of cancer.
+
+SPECIFIC CANCER SYMPTOMS
+
+Breast Cancer
+- Lump or thickening in the breast or underarm
+- Change in breast size or shape
+- Dimpling or puckering of the breast skin
+- Nipple changes (inversion, discharge, scaling)
+- Redness or scaling of the nipple or breast skin
+
+Lung Cancer
+- Persistent cough that does not go away
+- Coughing up blood
+- Chest pain
+- Shortness of breath
+- Hoarseness
+- Recurring infections like bronchitis or pneumonia
+
+Colon Cancer
+- Change in bowel habits
+- Blood in the stool
+- Abdominal pain or cramping
+- Unexplained weight loss
+- Weakness or fatigue
+
+Skin Cancer
+- New growth on the skin
+- Change in an existing mole or growth
+- A sore that does not heal
+- Redness or swelling beyond the border of a mole
+- Spread of pigment from the border of a spot into surrounding skin
+
+Prostate Cancer
+- Trouble urinating
+- Decreased force in the stream of urine
+- Blood in the urine
+- Blood in the semen
+- Bone pain
+- Weight loss
+
+CANCER RECOVERY AND EXERCISE
+
+Benefits of Exercise During Recovery
+Exercise can help people with cancer in many ways. It may help:
+- Reduce fatigue
+- Improve sleep
+- Increase strength and endurance
+- Improve mood and reduce anxiety
+- Maintain a healthy weight
+- Improve quality of life
+
+Types of Exercise
+
+Aerobic Exercise
+Activities that increase heart rate and breathing:
+- Walking
+- Swimming
+- Cycling
+- Dancing
+- Using a treadmill or stationary bike
+
+Start with 10-15 minutes per day and gradually increase as tolerated. Aim for 150 minutes of moderate activity per week if possible.
+
+Strength Training
+Building muscle can help with daily activities:
+- Light weights or resistance bands
+- Bodyweight exercises like squats or wall push-ups
+- Start with 1-2 sessions per week
+- Focus on major muscle groups
+
+Flexibility and Stretching
+Helps maintain range of motion:
+- Gentle stretching exercises
+- Yoga or tai chi (modified as needed)
+- Should be done when well-rested
+
+Balance Exercises
+Important for preventing falls:
+- Standing on one foot (with support if needed)
+- Walking heel-to-toe
+- Tai chi movements
+
+Exercise Guidelines During Treatment
+- Start slowly and build up gradually
+- Listen to your body and rest when needed
+- Stay hydrated
+- Exercise when you have the most energy
+- Avoid exercise if you have fever, severe anemia, or infection
+- Consult your healthcare team before starting
+
+Exercise After Treatment
+- Gradually increase activity level
+- Set realistic goals
+- Consider working with a physical therapist
+- Focus on exercises that address specific treatment side effects
+- Include both aerobic and strength training
+
+Precautions
+- Avoid exercise if platelet count is very low (risk of bleeding)
+- Be careful with balance if you have neuropathy
+- Avoid heavy lifting if you have had surgery recently
+- Monitor for swelling in arms or legs (lymphedema risk)
+- Stop immediately if you experience pain, dizziness, or shortness of breath
+
+CANCER PREVENTION
+
+Lifestyle Factors
+
+Diet and Nutrition
+A healthy diet may help reduce cancer risk:
+- Eat plenty of fruits and vegetables (at least 5 servings daily)
+- Choose whole grains over refined grains
+- Limit red meat and processed meats
+- Avoid sugary drinks and foods
+- Limit alcohol intake
+- Maintain a healthy weight
+
+Physical Activity
+Regular physical activity can reduce cancer risk:
+- Aim for at least 150 minutes of moderate activity per week
+- Include both aerobic and strength training
+- Limit sedentary time (sitting for long periods)
+- Find activities you enjoy and can maintain long-term
+
+Weight Management
+Maintaining a healthy weight is important:
+- Excess body weight is linked to many cancers
+- Even small weight loss can help if overweight
+- Focus on sustainable lifestyle changes rather than fad diets
+
+Tobacco Use
+Tobacco is the leading cause of preventable cancer:
+- Quitting smoking reduces cancer risk significantly
+- Risk decreases over time after quitting
+- Avoid all forms of tobacco (cigarettes, cigars, chewing tobacco)
+- Avoid secondhand smoke exposure
+
+Alcohol Consumption
+Alcohol increases risk for several cancers:
+- Limit alcohol to no more than 1 drink per day for women
+- Limit alcohol to no more than 2 drinks per day for men
+- Consider avoiding alcohol entirely for lowest risk
+- Risk increases with amount consumed
+
+Sun Protection
+Protecting skin from UV radiation reduces skin cancer risk:
+- Use broad-spectrum sunscreen with SPF 30 or higher
+- Reapply sunscreen every 2 hours when outdoors
+- Seek shade, especially during peak sun hours (10 AM - 4 PM)
+- Wear protective clothing (hats, long sleeves)
+- Avoid tanning beds and sunlamps
+
+Vaccinations
+Certain vaccines can prevent cancer-causing infections:
+- HPV vaccine prevents cervical and other cancers
+- Hepatitis B vaccine prevents liver cancer
+- Talk to healthcare provider about recommended vaccines
+
+Screening and Early Detection
+Regular screening can find cancer early when treatment is most effective:
+- Follow age-appropriate screening guidelines
+- Discuss family history with healthcare provider
+- Report any unusual symptoms promptly
+- Keep up with recommended check-ups
+
+Environmental Factors
+Reduce exposure to cancer-causing substances:
+- Test home for radon
+- Avoid exposure to industrial chemicals when possible
+- Follow safety guidelines at work
+- Be aware of local environmental concerns
+
+Stress Management
+Chronic stress may affect overall health:
+- Practice relaxation techniques (meditation, deep breathing)
+- Maintain social connections
+- Get adequate sleep (7-9 hours per night)
+- Seek support when needed
+- Consider counseling or support groups
+
+Mental Health
+Emotional well-being is part of overall health:
+- Address anxiety or depression with professional help
+- Maintain meaningful activities and hobbies
+- Stay connected with friends and family
+- Consider joining cancer support communities
+- Practice self-care regularly
+
+IMPORTANT NOTES
+
+This document provides general educational information. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
+
+Never disregard professional medical advice or delay in seeking it because of something you have read in this document. If you think you may have a medical emergency, call your doctor or emergency services immediately.
+
+Individual needs vary greatly. What works for one person may not work for another. Always work with your healthcare team to develop a plan that is right for your specific situation.
